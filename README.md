@@ -21,8 +21,14 @@ npm run dev
 
 #### No CMD, usando o curl. GET, POST, PUT e DELETE
 curl http://localhost:5000/todos
+
+
 curl -X POST http://localhost:5000/todos -H "Content-Type: application/json" -d "{\"title\":\"Comprar pão\"}"
+
+
 curl -X PUT http://localhost:5000/todos/1 -H "Content-Type: application/json" -d "{\"title\":\"Comprar pão\",\"done\":true}"
+
+
 curl -X DELETE http://localhost:5000/todos/1 (usar o ID que pretende deletar).
 
 
