@@ -13,10 +13,18 @@ Seu objetivo é criar uma lista de "tarefas a fazer"(TODO list), marcar elas com
 ### Backend e Frontend
 
 cd TodoApi
+
+
 dotnet run
 
+
+
 cd ../
+
+
 cd todo-frontend
+
+
 npm run dev
 
 #### No CMD, usando o curl. GET, POST, PUT e DELETE
