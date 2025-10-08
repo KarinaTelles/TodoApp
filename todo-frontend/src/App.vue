@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Todo App (Vue + C#)</h1>
+    <h1>To do app (vue + C#)</h1>
 
     <form @submit.prevent="add">
       <input v-model="newTitle" placeholder="Nova tarefa" />
