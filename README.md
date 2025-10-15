@@ -1,4 +1,5 @@
-# Todo App (C# + Vue.js)
+# To do App (Lista de tarefas "a fazer")
+## (C# + Vue.js)
 
 Aplicação full-stack que utiliza backend ASP.NET Core e frontend Vue.js (Vite). 
 Seu objetivo é criar uma lista de "tarefas a fazer"(TODO list), marcar elas como feitas e excluí-la. 
